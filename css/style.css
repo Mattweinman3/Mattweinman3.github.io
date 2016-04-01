@@ -117,7 +117,7 @@ main a:default {
   color: rgb(165,42,42);
   text-shadow: 3px 3px 3px black;
 }
-/*
+
 main a:visited {
   color: rgb(250,100,200);
   text-shadow: 3px 3px 3px black;
@@ -126,7 +126,7 @@ main a:visited {
 main a:hover {
   color: rgb(213,56,5)
 }
-*/
+
 footer a:default {
   color: rgb(165,42,42);
   text-shadow: 3px 3px 3px black;
