@@ -128,5 +128,9 @@ main a:hover {
 
 footer a:default {
   color: rgb(165,42,42);
-  text-shadow: 3px 3px 3px black;
+  text-shadow: 1px 1px 1px black;
+}
+
+footer a:visited {
+  color: darkgreen;
 }
