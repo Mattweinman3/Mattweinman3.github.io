@@ -128,33 +128,3 @@ footer a:default {
   color: rgb(165,42,42);
   text-shadow: 3px 3px 3px black;
 }
-
-
-/* iframe */
-
-iframe {
-  border: 1px solid #222;
-  width: 620px;
-  height: 349px;
-}
-
-
-/* table */
-
-table {
-  border-top: 1px solid #222;
-  border-left: 1px solid #222;
-  border-collapse: collapse;
-}
-
-table th,
-table td {
-  border-bottom: 1px solid #222;
-  border-right: 1px solid #222;
-  padding: 0.5em;
-}
-
-table th,
-table tr:nth-child(even) {
-  background: #eee;
-}
